@@ -11,9 +11,9 @@ application or make it match the screens visually.
 
 Your prototype must contain all three of the following components:
 
-- Dropdown
-- Grid
-- Modal
+- Dropdown  X
+- Grid      X
+- Modal     
 
 ### Choose Your Own Components
 
@@ -22,9 +22,9 @@ Your prototype must contain your choice of five of the following components.
 - Table
 - Input Group
 - Button Group
-- Glyph Icon
+- Glyph Icon       X
 - Label
-- Alert
+- Alert            
 - Tooltip
 
 ### Stretch Goal

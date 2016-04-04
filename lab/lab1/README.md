@@ -18,7 +18,7 @@ than 480px:
 Note that the #toggle-sidebar function has a click event registered that
 toggles the class .sidebar-open on the body element (see setup.js to view the
 click event code). We can use that to conditionally change the layout of the
-page when the user clicks on the button.
+page when the user clicks on the button. 
 
 ## Task 4
 
